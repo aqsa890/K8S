@@ -1,0 +1,9 @@
+kind: DevOpsBatch 
+apiVersion: elsa888.com/v1
+metadata:
+  name: miss10
+spec:
+  name: Devops-hero
+  duration: 3 months
+  platform: elsa888.com
+  mode: Live
